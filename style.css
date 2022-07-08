@@ -9,10 +9,10 @@ body
 .fieldset
 {
     background-color: aliceblue;
-    margin-left: 50;
-    margin-top: 150;
-    margin-bottom: auto;
-    margin-right: 700;
+    margin-left: 5%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 55%;
     border-radius: 30px;
-
+    padding: 5%;
 }
